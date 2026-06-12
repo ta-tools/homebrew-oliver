@@ -1,6 +1,6 @@
 cask "oliver" do
-  version "0.1.580"
-  sha256 "4ab9b42a770009d5999fc301fafacecd2df22da6c27f0953ae55eed8b67b742f"
+  version "0.1.581"
+  sha256 "23c1811dd4b618c3d5ab91300a859bc8ae5551c432b3fefea6d0259b58844f74"
 
   url "https://github.com/ta-tools/oliver-release/releases/download/v#{version}/Oliver-#{version}-osx-arm64.dmg"
   name "Oliver"
